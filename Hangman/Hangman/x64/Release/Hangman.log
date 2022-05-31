@@ -1,0 +1,76 @@
+﻿  Hangman.cpp
+C:\Users\Diman\source\repos\Hangman\Hangman\Hangman.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(422,1): warning C4267: 'argument': conversion from 'size_t' to 'To', possible loss of data
+          with
+          [
+              To=int
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(480): message : see reference to class template instantiation 'ArduinoJson6194_71::is_convertible<T,int>' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(2328): message : see reference to class template instantiation 'ArduinoJson6194_71::is_enum<T>' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(2365): message : see reference to function template instantiation 'unsigned __int64 ArduinoJson6194_71::VariantConstRef::as<T>(void) const' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\DataBase.h(111): message : see reference to function template instantiation 'ArduinoJson6194_71::VariantConstRef::operator T(void) const<size_t>' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\DataBase.h(108): message : while compiling class template member function 'void DataBase<WordCluePair,void>::fromJson(const ArduinoJson6194_71::DynamicJsonDocument &)'
+C:\Users\Diman\source\repos\Hangman\Hangman\Hangman.cpp(221): message : see reference to function template instantiation 'void DataBase<WordCluePair,void>::fromJson(const ArduinoJson6194_71::DynamicJsonDocument &)' being compiled
+C:\Users\Diman\source\repos\Hangman\Hangman\Hangman.h(48): message : see reference to class template instantiation 'DataBase<WordCluePair,void>' being compiled
+  IWindow.cpp
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(13,32): warning C4838: conversion from 'const size_t' to 'LONG' requires a narrowing conversion
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(13,46): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(13,40): warning C4838: conversion from 'const size_t' to 'LONG' requires a narrowing conversion
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(18,37): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(19,35): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(21,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(43,21): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Diman\source\repos\Hangman\Hangman\IWindow.cpp(44,21): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  IWindowDecorator.cpp
+  Player.cpp
+  Source.cpp
+C:\Users\Diman\source\repos\Hangman\Hangman\Hangman.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(422,1): warning C4267: 'argument': conversion from 'size_t' to 'To', possible loss of data
+          with
+          [
+              To=int
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(480): message : see reference to class template instantiation 'ArduinoJson6194_71::is_convertible<T,int>' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(2328): message : see reference to class template instantiation 'ArduinoJson6194_71::is_enum<T>' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\ArduinoJson-v6.19.4.h(2365): message : see reference to function template instantiation 'unsigned __int64 ArduinoJson6194_71::VariantConstRef::as<T>(void) const' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\DataBase.h(111): message : see reference to function template instantiation 'ArduinoJson6194_71::VariantConstRef::operator T(void) const<size_t>' being compiled
+          with
+          [
+              T=size_t
+          ]
+C:\Users\Diman\source\repos\Hangman\Hangman\DataBase.h(108): message : while compiling class template member function 'void DataBase<WordCluePair,void>::fromJson(const ArduinoJson6194_71::DynamicJsonDocument &)'
+C:\Users\Diman\source\repos\Hangman\Hangman\Hangman.h(48): message : see reference to class template instantiation 'DataBase<WordCluePair,void>' being compiled
+  WordCluePair.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 818 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hangman.vcxproj -> C:\Users\Diman\source\repos\Hangman\x64\Release\Hangman.exe
