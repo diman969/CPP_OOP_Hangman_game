@@ -46,5 +46,7 @@ Implemented following:
  - Customising Windows Console
    - Changing console title
    - Changing console size
-   - Changing console text colours
+   - Changing console text colours!
    - Hiding courser
+
+[Hangman](https://user-images.githubusercontent.com/78974953/171152113-f9cc93b5-833b-4bc3-b23b-e1046ab937c3.png)
